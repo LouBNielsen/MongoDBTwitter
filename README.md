@@ -5,7 +5,7 @@ installing various plugins ect. All this on my recently installed Virtuel Machin
 I finnally got to install everything that I need, I suppose, but now, no matter what I try in Java and Netbeans, I get errors...
 
 Therefore... Their will be no program to run...
-Instead, there will be a document here in this repository with ordinary mongoDB queries. 
+Instead, there is a document here in this repository called MongoDBTwitterExercise.docx with ordinary mongoDB queries. 
 I don't know if they'll work but maybe you, the reviewer, could try them out or maybe just my looking at the queries, 
 predict if they would work and solve the five tasks.
 
